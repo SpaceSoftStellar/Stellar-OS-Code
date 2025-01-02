@@ -87,9 +87,9 @@ Stellar поддерживает ввод текста на множестве �
 Вот несколько скриншотов интерфейса Stellar:
 
 <div align="center">
-  <img src="https://imgur.com/0SiASt9.png" alt="Stellar Interface 1" style="border-radius: 15px; width: 30%;">
-  <img src="https://imgur.com/vd6QoWd.png" alt="Stellar Interface 2" style="border-radius: 15px; width: 30%;">
-  <img src="https://imgur.com/cXEBrdP.png" alt="Stellar Interface 3" style="border-radius: 15px; width: 30%;">
+  <img src="https://imgur.com/0SiASt9.png" alt="Stellar Interface 1" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/vd6QoWd.png" alt="Stellar Interface 2" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/cXEBrdP.png" alt="Stellar Interface 3" style="border-radius: 15px; width: 45%;">
 </div>
 
 ## Скриншоты сайта 📸
@@ -98,19 +98,19 @@ Stellar поддерживает ввод текста на множестве �
 
 ### Демонстрация интерфейса сайта:
 <div align="center">
-  <img src="https://imgur.com/f1T1azq.png" alt="Stellar Screenshot 1" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/f1T1azq.png" alt="Stellar Screenshot 1" style="border-radius: 15px; width: 60%;">
   <br>
   <em>🌐 Страница Ознакомление Операционной Системы</em>
   <br><br>
-  <img src="https://imgur.com/q6Cll1j.png" alt="Stellar Screenshot 4" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/q6Cll1j.png" alt="Stellar Screenshot 4" style="border-radius: 15px; width: 60%;">
   <br>
   <em>⚙️ Страница Установки Операционной Системы</em>
   <br><br>
-  <img src="https://imgur.com/OCBJ2NN.png" alt="Stellar Screenshot 3" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/OCBJ2NN.png" alt="Stellar Screenshot 3" style="border-radius: 15px; width: 60%;">
   <br>
   <em>🛠️ Страница Информации Техподдержки</em>
   <br><br>
-  <img src="https://imgur.com/uNEPzxj.png" alt="Stellar Screenshot 2" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/uNEPzxj.png" alt="Stellar Screenshot 2" style="border-radius: 15px; width: 60%;">
   <br>
   <em>📰 Страница Новостей Операционной Системы</em>
 </div>
