@@ -1,36 +1,73 @@
 <div align="center">
   <img src="https://imgur.com/Z0VulAO.png" alt="Stellar Banner" style="border-radius: 15px; width: 40%;">
-  <h1>Stellar</h1>
-  <p>Система новых возможностей</p>
+  <h1 style="font-size: 10rem; font-weight: bold;">Stellar - Cистема Новых Возможностей</h1>
+  <p>Мы рекомендуем скачивать на официальном сайте Stellar</p>
 
   <!-- Виджеты -->
   <p>
+    <!-- Лицензия -->
     <a href="LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Лицензия">
     </a>
+    <!-- Версия -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/releases">
       <img src="https://img.shields.io/badge/версия-1.0.0-green?style=for-the-badge&logo=github&logoColor=white" alt="Версия">
     </a>
+    <!-- Статус сборки -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/actions">
       <img src="https://img.shields.io/github/actions/workflow/status/SpaceSoftStellar/Stellar-OS-Code/build.yml?style=for-the-badge&logo=githubactions&logoColor=white" alt="Статус сборки">
     </a>
+    <!-- Звезды -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/stargazers">
       <img src="https://img.shields.io/github/stars/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white&color=yellow" alt="Звезды">
     </a>
+    <!-- Форки -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/forks">
       <img src="https://img.shields.io/github/forks/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white&color=orange" alt="Форки">
     </a>
+    <!-- Последний коммит -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/commits/main">
       <img src="https://img.shields.io/github/last-commit/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Последний коммит">
     </a>
+    <!-- Размер репозитория -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code">
       <img src="https://img.shields.io/github/repo-size/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Размер репозитория">
     </a>
+    <!-- Issues -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/issues">
       <img src="https://img.shields.io/github/issues/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Issues">
     </a>
+    <!-- Pull Requests -->
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/pulls">
       <img src="https://img.shields.io/github/issues-pr/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests">
+    </a>
+    <!-- Contributors -->
+    <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/graphs/contributors">
+      <img src="https://img.shields.io/github/contributors/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Contributors">
+    </a>
+    <!-- Downloads -->
+    <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/releases">
+      <img src="https://img.shields.io/github/downloads/SpaceSoftStellar/Stellar-OS-Code/total?style=for-the-badge&logo=github&logoColor=white" alt="Downloads">
+    </a>
+    <!-- Code Size -->
+    <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code">
+      <img src="https://img.shields.io/github/languages/code-size/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Code Size">
+    </a>
+    <!-- Lines of Code -->
+    <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code">
+      <img src="https://img.shields.io/tokei/lines/github/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Lines of Code">
+    </a>
+    <!-- Commit Activity -->
+    <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/graphs/commit-activity">
+      <img src="https://img.shields.io/github/commit-activity/m/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Commit Activity">
+    </a>
+    <!-- Discussions -->
+    <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/discussions">
+      <img src="https://img.shields.io/github/discussions/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Discussions">
+    </a>
+    <!-- Sponsors -->
+    <a href="https://github.com/sponsors/SpaceSoftStellar">
+      <img src="https://img.shields.io/github/sponsors/SpaceSoftStellar?style=for-the-badge&logo=github&logoColor=white" alt="Sponsors">
     </a>
   </p>
 </div>
