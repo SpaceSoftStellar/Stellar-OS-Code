@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://imgur.com/Z0VulAO.png" alt="Stellar Banner" style="border-radius: 15px; width: 40%;">
-  <h1>Stellar 🚀 — Операционная система 🌌 нового поколения 🌟</h1>
-  <p>"Система новых возможностей"</p>
+  <h1>Stellar</h1>
+  <p>Система новых возможностей</p>
 
   <!-- Виджеты -->
   <p>
