@@ -118,8 +118,8 @@ Stellar поддерживает ввод текста на множестве �
 
 <div align="center">
   <img src="https://imgur.com/0SiASt9.png" alt="Stellar Interface 1" style="border-radius: 15px; width: 45%;">
-  <img src="https://imgur.com/vd6QoWd.png" alt="Stellar Interface 2" style="border-radius: 15px; width: 45%;">
-  <img src="https://imgur.com/cXEBrdP.png" alt="Stellar Interface 3" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/2FNAgg3.png" alt="Stellar Interface 2" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/dlFdKh4.png" alt="Stellar Interface 3" style="border-radius: 15px; width: 45%;">
 </div>
 
 ## Скриншоты сайта 📸
