@@ -128,21 +128,44 @@ Stellar поддерживает ввод текста на множестве �
 
 ### Демонстрация интерфейса сайта:
 <div align="center">
-  <img src="https://imgur.com/f1T1azq.png" alt="Stellar Screenshot 1" style="border-radius: 15px; width: 60%;">
+  <img src="https://imgur.com/f1T1azq.png" alt="Stellar Screenshot 1" style="border-radius: 15px; width: 50%;">
   <br>
   <em>🌐 Страница Ознакомление Операционной Системы</em>
   <br><br>
-  <img src="https://imgur.com/q6Cll1j.png" alt="Stellar Screenshot 4" style="border-radius: 15px; width: 60%;">
+  <img src="https://imgur.com/q6Cll1j.png" alt="Stellar Screenshot 4" style="border-radius: 15px; width: 50%;">
   <br>
   <em>⚙️ Страница Установки Операционной Системы</em>
   <br><br>
-  <img src="https://imgur.com/OCBJ2NN.png" alt="Stellar Screenshot 3" style="border-radius: 15px; width: 60%;">
+  <img src="https://imgur.com/OCBJ2NN.png" alt="Stellar Screenshot 3" style="border-radius: 15px; width: 50%;">
   <br>
   <em>🛠️ Страница Информации Техподдержки</em>
   <br><br>
-  <img src="https://imgur.com/uNEPzxj.png" alt="Stellar Screenshot 2" style="border-radius: 15px; width: 60%;">
+  <img src="https://imgur.com/uNEPzxj.png" alt="Stellar Screenshot 2" style="border-radius: 15px; width: 50%;">
   <br>
   <em>📰 Страница Новостей Операционной Системы</em>
+</div>
+
+## Архитектура системы 🏗️
+
+### Stellar Workflow 📊 
+Ниже представлена диаграмма, иллюстрирующая workflow системы Stellar:
+
+<div align="center">
+  <img src="https://imgur.com/PIV6R9l.png" alt="Stellar Workflow" style="border-radius: 15px; width: 10%;">
+</div>
+
+### Stellar Database Model 🗃️
+Модель базы данных Stellar представлена на следующей диаграмме:
+
+<div align="center">
+  <img src="https://imgur.com/kr56Vq9.png" alt="Stellar Database Model" style="border-radius: 15px; width: 50%;">
+</div>
+
+### Stellar Operating System Flowchart 🔄
+Диаграмма, показывающая основные процессы операционной системы Stellar:
+
+<div align="center">
+  <img src="https://imgur.com/SzA8Sce.png" alt="Stellar Operating System Flowchart" style="border-radius: 15px; width: 50%;">
 </div>
 
 ## Пожертвования и поддержка 💰
