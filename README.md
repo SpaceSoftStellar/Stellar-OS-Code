@@ -168,6 +168,13 @@ Stellar поддерживает ввод текста на множестве �
   <img src="https://imgur.com/SzA8Sce.png" alt="Stellar Operating System Flowchart" style="border-radius: 15px; width: 50%;">
 </div>
 
+### Stellar WebSite Component Interaction 🌐
+Ниже представлена диаграмма, иллюстрирующая взаимодействие компонентов веб-сайта Stellar:
+
+<div align="center">
+  <img src="https://imgur.com/undefined" alt="Stellar WebSite Component Interaction" style="border-radius: 15px; width: 50%;">
+</div>
+
 ## Пожертвования и поддержка 💰
 Если вам нравится проект Stellar, вы можете поддержать его развитие:  
 - **GitHub Sponsors**: [Станьте спонсором](https://github.com/sponsors/SpaceSoftStellar)  
