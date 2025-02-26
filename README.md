@@ -157,9 +157,9 @@ Stellar поддерживает ввод текста на множестве �
 Этот проект распространяется под лицензией MIT. См. файл [LICENSE](LICENSE) для получения дополнительной информации.
 
 ## Контакты 📞
-▶️ YouTube: [Stellar Official Channel](https://youtube.com)  
-📘 ВКонтакте: [Welcome to Stellar](https://vk.com)  
-📱 Telegram: [Welcome to Stellar](https://t.me)  
+▶️ YouTube: [Stellar Official Channel](https://www.youtube.com/@StellarOfficialChannel)  
+📘 ВКонтакте: [Welcome to Stellar]([https://vk.com](https://vk.com/welcometostellar))  
+📱 Telegram: [Welcome to Stellar]([https://t.me](https://t.me/welcometostellar))  
 
 ## Техническая поддержка 🛠️
 Если у вас возникли вопросы или проблемы, свяжитесь с нами:  
