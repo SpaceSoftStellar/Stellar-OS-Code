@@ -172,7 +172,7 @@ Stellar поддерживает ввод текста на множестве �
 Ниже представлена диаграмма, иллюстрирующая взаимодействие компонентов веб-сайта Stellar:
 
 <div align="center">
-  <img src="https://imgur.com/undefined" alt="Stellar WebSite Component Interaction" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/1ibMYGT.png" alt="Stellar WebSite Component Interaction" style="border-radius: 15px; width: 50%;">
 </div>
 
 ## Пожертвования и поддержка 💰
