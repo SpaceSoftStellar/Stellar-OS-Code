@@ -66,12 +66,6 @@
     <a href="https://github.com/SpaceSoftStellar/Stellar-OS-Code/discussions">
       <img src="https://img.shields.io/github/discussions/SpaceSoftStellar/Stellar-OS-Code?style=for-the-badge&logo=github&logoColor=white" alt="Discussions">
     </a>
-    <!-- Sponsors -->
-    <a href="https://github.com/sponsors/SpaceSoftStellar">
-      <img src="https://img.shields.io/github/sponsors/SpaceSoftStellar?style=for-the-badge&logo=github&logoColor=white" alt="Sponsors">
-    </a>
-  </p>
-</div>
 
 ## Описание 📖
 Stellar — это операционная система нового поколения, разработанная для повышения производительности и удобства пользователей. Она сочетает в себе оптимизированное ядро, современный интерфейс и поддержку множества языков. Stellar создана с учётом потребностей пользователей, обеспечивая стабильность, безопасность и высокую скорость работы.
