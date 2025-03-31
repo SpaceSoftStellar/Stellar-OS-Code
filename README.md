@@ -328,28 +328,28 @@ os/
 Ниже представлена диаграмма, иллюстрирующая workflow системы Stellar:
 
 <div align="center">
-  <img src="https://imgur.com/PIV6R9l.png" alt="Stellar Workflow" style="border-radius: 15px; width: 10%;">
+  <img src="https://imgur.com/Xmrjnvh.png" alt="Stellar Workflow" style="border-radius: 15px; width: 50%;">
 </div>
 
 ### Stellar Database Model 🗃️
 Модель базы данных Stellar представлена на следующей диаграмме:
 
 <div align="center">
-  <img src="https://imgur.com/kr56Vq9.png" alt="Stellar Database Model" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/o1VqyTw.png" alt="Stellar Database Model" style="border-radius: 15px; width: 70%;">
 </div>
 
 ### Stellar Operating System Flowchart 🔄
 Диаграмма, показывающая основные процессы операционной системы Stellar:
 
 <div align="center">
-  <img src="https://imgur.com/SzA8Sce.png" alt="Stellar Operating System Flowchart" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/SzA8Sce.png" alt="Stellar Operating System Flowchart" style="border-radius: 15px; width: 70%;">
 </div>
 
 ### Stellar WebSite Component Interaction 🌐
 Ниже представлена диаграмма, иллюстрирующая взаимодействие компонентов веб-сайта Stellar:
 
 <div align="center">
-  <img src="https://imgur.com/1ibMYGT.png" alt="Stellar WebSite Component Interaction" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/1ibMYGT.png" alt="Stellar WebSite Component Interaction" style="border-radius: 15px; width: 70%;">
 </div>
 
 ## Пожертвования и поддержка 💰
