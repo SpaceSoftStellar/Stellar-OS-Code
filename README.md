@@ -365,8 +365,8 @@ os/
 
 ## Контакты 📞
 ▶️ YouTube: [Stellar Official Channel](https://www.youtube.com/@StellarOfficialChannel)  
-📘 ВКонтакте: [Welcome to Stellar]([https://vk.com](https://vk.com/welcometostellar))  
-📱 Telegram: [Welcome to Stellar]([https://t.me](https://t.me/welcometostellar))  
+📘 ВКонтакте: [Welcome to Stellar](https://vk.com/welcometostellar)  
+📱 Telegram: [Welcome to Stellar](https://t.me/welcometostellar)  
 
 ## Техническая поддержка 🛠️
 Если у вас возникли вопросы или проблемы, свяжитесь с нами:  
