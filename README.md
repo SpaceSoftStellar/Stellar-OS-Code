@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://imgur.com/T3JGa5o.png" alt="Stellar Banner" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/T3JGa5o.png" alt="Stellar Banner" style="border-radius: 15px; width: 60%;">
   <h1 style="font-size: 10rem; font-weight: bold;">Stellar - Cистема Новых Возможностей</h1>
   <p>Мы рекомендуем скачивать на официальном сайте Stellar</p>
 
