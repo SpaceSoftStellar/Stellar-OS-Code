@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://imgur.com/T3JGa5o.png" alt="Stellar Banner" style="border-radius: 15px; width: 60%;">
+  <img src="https://imgur.com/T3JGa5o.png" alt="Stellar Banner" style="border-radius: 15px; width: 50%;">
   <h1 style="font-size: 10rem; font-weight: bold;">Stellar - Cистема Новых Возможностей</h1>
   <p>Мы рекомендуем скачивать на официальном сайте Stellar</p>
 
@@ -294,9 +294,9 @@ os/
 Вот несколько скриншотов интерфейса Stellar:
 
 <div align="center">
-  <img src="https://imgur.com/0SiASt9.png" alt="Stellar Interface 1" style="border-radius: 15px; width: 45%;">
-  <img src="https://imgur.com/2FNAgg3.png" alt="Stellar Interface 2" style="border-radius: 15px; width: 45%;">
-  <img src="https://imgur.com/dlFdKh4.png" alt="Stellar Interface 3" style="border-radius: 15px; width: 45%;">
+  <img src="https://imgur.com/0SiASt9.png" alt="Stellar Interface 1" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/2FNAgg3.png" alt="Stellar Interface 2" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/dlFdKh4.png" alt="Stellar Interface 3" style="border-radius: 15px; width: 50%;">
 </div>
 
 ## Скриншоты сайта 📸
