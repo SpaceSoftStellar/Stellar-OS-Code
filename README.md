@@ -305,19 +305,19 @@ os/
 
 ### Демонстрация интерфейса сайта:
 <div align="center">
-  <img src="https://imgur.com/f1T1azq.png" alt="Stellar Screenshot 1" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/f1T1azq.png" alt="Stellar Screenshot 1" style="border-radius: 15px; width: 75%;">
   <br>
   <em>🌐 Страница Ознакомление Операционной Системы</em>
   <br><br>
-  <img src="https://imgur.com/q6Cll1j.png" alt="Stellar Screenshot 4" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/q6Cll1j.png" alt="Stellar Screenshot 4" style="border-radius: 15px; width: 75%;">
   <br>
   <em>⚙️ Страница Установки Операционной Системы</em>
   <br><br>
-  <img src="https://imgur.com/OCBJ2NN.png" alt="Stellar Screenshot 3" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/OCBJ2NN.png" alt="Stellar Screenshot 3" style="border-radius: 15px; width: 75%;">
   <br>
   <em>🛠️ Страница Информации Техподдержки</em>
   <br><br>
-  <img src="https://imgur.com/uNEPzxj.png" alt="Stellar Screenshot 2" style="border-radius: 15px; width: 50%;">
+  <img src="https://imgur.com/uNEPzxj.png" alt="Stellar Screenshot 2" style="border-radius: 15px; width: 75%;">
   <br>
   <em>📰 Страница Новостей Операционной Системы</em>
 </div>
