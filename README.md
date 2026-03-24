@@ -1,7 +1,7 @@
 
 <div align="center">
   <img src="https://github.com/SpaceSoftStellar/Stellar-OS-Code/blob/master/wf0j1Vq3WLoGfWCQJKx4dQa7egOf8Egng8jYwQVJXIlm_pIpvBbIClPHbef3XsPKZv3YkCFJX_v8r2Dj6VVzsXpp.png" alt="Stellar Banner" style="border-radius: 15px; width: 50%;">
-  <h1 style="font-size: 10rem; font-weight: bold;">Stellar - Операционная Система Новых Возможностей</h1>
+  <h1 style="font-size: 10rem; font-weight: bold;">Stellar - Операционная система Новых Возможностей</h1>
   <p>Мы рекомендуем скачивать на официальном сайте Stellar</p>
 
   <!-- Виджеты -->
